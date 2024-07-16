@@ -13,14 +13,6 @@ const resolver = {
       },
       location:(_,args)=>{
         return location.find((location)=>location.id===parseInt(args.id))
-      },
-      people:()=>{
-        location:(parent)=>{
-            return location.find((area)=>{
-                return area.id===parent.id
-
-            })
-        }
       }
     },
     Mutation:{
