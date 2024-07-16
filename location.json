@@ -1,0 +1,12 @@
+{
+    "location":[
+        {
+            "id":1,
+            "name":"Budapest"
+        },
+        {
+            "id":2,
+            "name":"Nairobi"
+        }
+    ]
+}

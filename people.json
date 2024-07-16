@@ -1,0 +1,29 @@
+{
+    "people":[
+        {
+            "id":1,
+            "name":"John",
+            "age":30,
+            "location":1
+        },
+        {
+            "id":2,
+            "name":"Brian",
+            "age":22,
+            "location":1
+        },
+        {
+            "id":3,
+            "name":"chriss",
+            "age":17,
+            "location":1
+        },
+        {
+            "id":4,
+            "name":"James",
+            "age":22,
+            "location":1
+        }
+
+    ]
+}
